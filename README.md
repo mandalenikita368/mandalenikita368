@@ -2,7 +2,7 @@
 # Hi there, I’m Nikita Mandale 👋
 
 ### 👩‍💻 About Me
-I’m currently a BTech Computer Science student at SRTM University Nanded, passionate about building user-friendly and scalable applications. My journey started with a diploma in Information Technology, where I developed my first full-fledged desktop app and discovered my love for creating impactful software.
+I’m currently a BTech Computer Science student at SRTM University, passionate about building user-friendly and scalable applications. My journey started with a diploma in Information Technology, where I developed my first full-fledged desktop app and discovered my love for creating impactful software.
 
 ---
 
