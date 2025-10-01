@@ -2,12 +2,12 @@
 # Hi there, I’m Nikita Mandale 👋
 
 ### 👩‍💻 About Me
-I’m currently a BTech Computer Science student at SRTM University, passionate about building user-friendly and scalable applications. My journey started with a diploma in Information Technology, where I developed my first full-fledged desktop app and discovered my love for creating impactful software.
+I’m currently a BTech prefinal year Computer Science student at SRTM University, passionate about building user-friendly and scalable applications. My journey started with a diploma in Information Technology, where I developed my first full-fledged desktop app and discovered my love for creating impactful software.
 
 ---
 
 ### 🛠️ Skills & Technologies
-- **Android App Development** (Java, beginner level)
+- **Android App Development** (Java)
 - **Desktop Applications** (AWT & Swing frameworks)
 - **UI/UX**: Focused on usability and user experience
 
